@@ -30,9 +30,8 @@
 ### 🔥 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SetFodi&show_icons=true&theme=radical&hide_border=true" width="48%" />
- <img src="https://github-readme-streak-stats.vercel.app/?user=SetFodi&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=SetFodi&theme=dark&hide_border=true" width="48%" />
 </p>
-
 ---
 
 ### 📌 **Featured Projects**
@@ -68,7 +67,7 @@ _A modern task manager built with Next.js, MongoDB, and TailwindCSS._
 
 ### 🎵 **Spotify Now Playing**
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=fuzyssostmoywujz7addjxocb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=fuzyssostmoywujz7addjxocb&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
 </p>
 
 ---
