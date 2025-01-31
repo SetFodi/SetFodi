@@ -56,7 +56,7 @@ _A modern task manager built with Next.js, MongoDB, and TailwindCSS._
 
 ---
 ### 🎵 **Spotify Now Playing**
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=fuzyssostmoywujz7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f)](https://open.spotify.com/user/fuzyssostmoywujz7)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=fuzyssostmoywujz7addjxocb&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f)](https://open.spotify.com/user/fuzyssostmoywujz7addjxocb)
 
 ---
 
