@@ -27,12 +27,6 @@
 
 ---
 
-### 🔥 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SetFodi&show_icons=true&theme=radical&hide_border=true" width="60%" />
-</p>
----
-
 ### 📌 **Featured Projects**
 🚀 **[Syncrolly.com](https://github.com/SetFodi/syncrolly)**  
 _A real-time code-sharing platform using Socket.IO, MongoDB, and Yjs._
