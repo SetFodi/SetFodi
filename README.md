@@ -30,7 +30,7 @@
 ### 🔥 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SetFodi&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=setfodi&show_icons=true&locale=en" alt="setfodi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=setfodi&" alt="setfodi" width="48%" /></p>
 </p>
 ---
 
