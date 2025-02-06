@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -32,10 +33,10 @@
 _A real-time code-sharing platform using Socket.IO, MongoDB, and Yjs._
 
 🖥️ **[DevConnect](https://github.com/SetFodi/devconnect)**  
-_A Social Media Platform Made for Developers using Express, Mongodb, Socket.io...
+_A Social Media Platform Made for Developers using Express, Mongodb, Socket.io..._
 
 ⌨️ **[TypingY](https://github.com/SetFodi/typingy)**  
-_A Platform where you can improve your Keyboard typing speed...
+_A Platform where you can improve your Keyboard typing speed..._
 
 📦 **[Task Manager (MERN)](https://github.com/SetFodi/task-manager)**  
 _A modern task manager built with Next.js, MongoDB, and TailwindCSS._
@@ -46,7 +47,7 @@ _A modern task manager built with Next.js, MongoDB, and TailwindCSS._
 
 ### 📫 **Let's Connect!**
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/luka-partenadze-394675348/?trk=opento_sprofile_details/" target="_blank">
+  <a href="https://www.linkedin.com/in/luka-partenadze-394675348/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lukafartenadze2004@gmail.com">
