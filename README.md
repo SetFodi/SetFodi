@@ -1,87 +1,80 @@
-<!-- Professional GitHub Profile README by Luka Partenadze -->
-<div align="center">
-  <h1>👋 Hey, I'm Luka!</h1>
-  <h3>🚀 Junior Full-Stack Developer | 🐍 Python Explorer | 🌍 Based in Georgia</h3>
-</div>
+<h1 align="center">👋 Hey, I'm Luka Partenadze</h1>
+<p align="center">
+  <strong>Junior Full-Stack Developer</strong> | JavaScript Enthusiast | Based in Georgia
+</p>
+
+<br />
+
+## 🚀 Tech Stack
+
+### Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
 ---
 
-### 🎯 **Technical Arsenal**
+## 🔥 Featured Projects
 
-<div align="center">
-  
-#### **Core Stack**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- **[Syncrolly.com](https://github.com/SetFodi/syncrolly)**  
+  _Real-time code-sharing platform using Socket.IO, MongoDB, and Yjs._
 
-#### **Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- **[DevConnect](https://github.com/SetFodi/devconnect)**  
+  _Social media platform for developers built with Express, MongoDB, and Socket.IO._
 
-#### **Tools & More**
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **[TypingY](https://github.com/SetFodi/typingy)**  
+  _Improve your typing speed with this interactive platform._
 
-</div>
+- **[Task Manager (MERN)](https://github.com/SetFodi/task-manager)**  
+  _Modern task manager built with Next.js, MongoDB, and TailwindCSS._
+
+- **[More Projects](https://github.com/SetFodi?tab=repositories)**
 
 ---
 
-### 🌟 **Featured Creations**
+## 📫 Let's Connect!
 
-- **🧑💻 [Syncrolly](https://github.com/SetFodi/syncrolly)**  
-  Real-time collaborative coding environment with Yjs & Socket.IO
-
-- **🤝 [DevConnect](https://github.com/SetFodi/devconnect)**  
-  Developer-centric social platform with MERN stack
-
-- **⌨️ [TypingY](https://github.com/SetFodi/typingy)**  
-  Interactive typing speed trainer with performance analytics
-
-- **📊 [Task Manager](https://github.com/SetFodi/task-manager)**  
-  Full-featured productivity tool with Next.js & Tailwind
+<p align="center">
+  <a href="https://www.linkedin.com/in/luka-partenadze-394675348/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lukafartenadze2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### 📈 **Coding Activity**
+## 🏆 GitHub Profile Trophies
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=SetFodi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SetFodi&theme=radical" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SetFodi&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
+</p>
 
 ---
 
-### 🏆 **Achievements**
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=SetFodi&theme=radical&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 📬 **Let's Collaborate!**
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-partenadze-394675348/)
-  [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukafartenadze2004@gmail.com)
-  [![GitHub](https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi)
-
-</div>
-
----
-
-<div align="center">
-  <br/>
-  <p>🔥 Crafting digital solutions with passion and precision 🔥</p>
-  <p>Made with ❤️ using Markdown & GitHub Magic</p>
-</div>
+<p align="center">
+  Made with ❤️ by <strong>Luka Partenadze</strong>
+</p>
