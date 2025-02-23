@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hey, I'm Luka Partenadze</h1>
 <p align="center">
   <strong>Junior Full-Stack Developer</strong> | JavaScript Enthusiast | Based in Georgia
-  <img src="https://i.imgur.com/6ohxXMX.gif" width="500" height="280" />
 </p>
 
 
@@ -70,12 +69,7 @@
 </p>
 
 ---
-
-## 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SetFodi&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
+  <img src="https://i.imgur.com/6ohxXMX.gif" width="500" height="280" />
 
 ---
 
