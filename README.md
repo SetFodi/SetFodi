@@ -2,7 +2,7 @@
 <p align="center">
   <strong>Junior Full-Stack Developer</strong> | JavaScript Enthusiast | Based in Georgia
 </p>
-![cat-computer](https://github.com/user-attachments/assets/3b209a6f-9f54-47ae-9352-46baeb68e88d)
+![Work Coding GIF by Scaler](https://github.com/user-attachments/assets/2bdc23b0-9f3b-497f-b335-226dfa1d1528)
 
 
 <br />
