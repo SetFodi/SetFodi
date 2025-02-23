@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Luka Partenadze</h1>
 <p align="center">
   <strong>Junior Full-Stack Developer</strong> | JavaScript Enthusiast | Based in Georgia
-  <img src="https://imgur.com/a/xnHC7VZ" width="500" />
+  <img src="https://i.imgur.com/6ohxXMX.gif" width="500" />
 </p>
 
 
