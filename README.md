@@ -2,7 +2,7 @@
 <p align="center">
   <strong>Junior Full-Stack Developer</strong> | JavaScript Enthusiast | Based in Georgia
 </p>
-
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHIzdXZjbTluNzFscms4ajE2ZnJkNHk4Y280bDNiZHRzNGFoOTA1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif
 <br />
 
 ## 🚀 Tech Stack
