@@ -69,8 +69,9 @@
 </p>
 
 ---
+<p align="center">
   <img src="https://i.imgur.com/6ohxXMX.gif" width="500" height="280" />
-
+</p>
 ---
 
 <p align="center">
