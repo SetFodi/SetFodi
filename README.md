@@ -2,7 +2,8 @@
 <p align="center">
   <strong>Junior Full-Stack Developer</strong> | JavaScript Enthusiast | Based in Georgia
 </p>
-![Work Coding GIF by Scaler](https://github.com/user-attachments/assets/397fda97-f5db-482b-952b-0170de0c693a)
+![Work Coding GIF by Scaler](https://github.com/user-attachments/assets/862ff2cd-1b77-40dc-9aa7-e749aa42f2bc)
+
 <br />
 
 ## 🚀 Tech Stack
