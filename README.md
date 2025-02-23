@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hey, I'm Luka Partenadze</h1>
 <p align="center">
   <strong>Junior Full-Stack Developer</strong> | JavaScript Enthusiast | Based in Georgia
+  <img src="https://raw.githubusercontent.com/SetFodi/repo-name/main/your-gif.gif" width="500" />
 </p>
-![Work Coding GIF by Scaler](https://github.com/user-attachments/assets/2bdc23b0-9f3b-497f-b335-226dfa1d1528)
+
 
 
 <br />
