@@ -50,8 +50,8 @@
 - **[TypingY](https://github.com/SetFodi/typingy)**  
   _Improve your typing speed with this interactive platform._
 
-- **[Task Manager (MERN)](https://github.com/SetFodi/task-manager)**  
-  _Modern task manager built with Next.js, MongoDB, and TailwindCSS._
+- **[AndCode](https://github.com/SetFodi/andcode)**  
+  _Modern way to learn coding algorithms and solve problems._
 
 - **[More Projects](https://github.com/SetFodi?tab=repositories)**
 
