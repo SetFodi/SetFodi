@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=445&lines=Junior+Full-Stack+Developer;JavaScript+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
   <br/>
-  <sup>💻 Based in Tbilis, Georgia 🌍</sup>
+  <sup>💻 Based in Tbilisi, Georgia 🌍</sup>
 </div>
 
 <br/>
