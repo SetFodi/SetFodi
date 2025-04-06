@@ -66,7 +66,6 @@
 ## <div align="center">💼 Featured Creations</div>
 
 <div align="center">
-  
 <table>
   <tr>
     <td align="center" width="50%">
