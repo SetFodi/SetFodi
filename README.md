@@ -117,16 +117,6 @@
 
 ---
 
-## <div align="center">🔥 Streak Stats</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SetFodi&theme=tokyonight)](https://git.io/streak-stats)
-  
-</div>
-
----
-
 ## <div align="center">🌐 Connect With Me</div>
 
 <div align="center">
