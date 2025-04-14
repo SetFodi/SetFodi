@@ -8,12 +8,6 @@
 
 <br/>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=SetFodi&style=flat-square&color=38B2AC)
-  
-</div>
-
 ---
 
 ## <div align="center">🛠️ Tech Artistry</div>
