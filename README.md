@@ -129,9 +129,7 @@
 ---
 
 <div align="center">
-  
   ✨ <b>Thank you for visiting my profile!</b> ✨
-  
   <br/>
   <br/>
   
