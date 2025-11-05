@@ -25,7 +25,7 @@ name: Luka Partenadze
 role: Full Stack Developer
 location: Tbilisi, Georgia
 education: Georgian American University (2022-2026)
-status: Open to opportunities
+status: Working as a Odoo-Developer at Fostral.
 
 expertise:
   - Real-time collaboration systems
