@@ -16,9 +16,17 @@
 
 <br>
 
+---
+
 ## 🎯 About Me
 
+<div align="center">
+
 I'm a passionate **Full Stack Developer** currently pursuing Computer Science at Georgian American University. I specialize in building scalable web applications with modern technologies, focusing on clean code, user experience, and innovative solutions.
+
+</div>
+
+<div align="center">
 
 ```yaml
 name: Luka Partenadze
@@ -39,21 +47,29 @@ languages:
   georgian: Native
 ```
 
+</div>
+
 <br>
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Frontend Development**
+### **Frontend Development**
 <br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,angular,vue,tailwind,html,css&theme=dark" />
 
-**Backend Development**
+<br><br>
+
+### **Backend Development**
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,cs,mongodb,postgresql,mysql&theme=dark" />
 
-**Tools & DevOps**
+<br><br>
+
+### **Tools & DevOps**
 <br>
 <img src="https://skillicons.dev/icons?i=git,docker,vscode,figma,postman&theme=dark" />
 
@@ -61,12 +77,15 @@ languages:
 
 <br>
 
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
+
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 🎯 IntPrep
 **AI-Powered Interview Platform**
@@ -81,10 +100,12 @@ Advanced interview preparation platform featuring AI mock interviews and real-ti
 
 **Tech Stack:** React, TypeScript, AI APIs, Monaco Editor
 
+<br>
+
 [![View Project](https://img.shields.io/badge/View%20Code-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi/intprep)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 🔄 Syncrolly
 **Real-Time Collaboration Tool**
@@ -99,12 +120,14 @@ Collaborative document editing platform with live synchronization and conflict r
 
 **Tech Stack:** Node.js, WebSockets, MongoDB, Yjs
 
+<br>
+
 [![View Project](https://img.shields.io/badge/View%20Code-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi/syncrolly)
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 🎬 AndWatch
 **Media Tracking Platform**
@@ -119,10 +142,12 @@ Comprehensive movie and anime tracking application with personalized recommendat
 
 **Tech Stack:** React, REST APIs, Responsive Design
 
+<br>
+
 [![View Project](https://img.shields.io/badge/View%20Code-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi/andwatch)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 📂 More Projects
 **Explore My Portfolio**
@@ -137,21 +162,27 @@ Discover additional projects showcasing various technologies and problem-solving
 
 **Languages:** JavaScript, TypeScript, Python, PHP
 
+<br>
+
 [![View All](https://img.shields.io/badge/View%20All-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi?tab=repositories)
 
 </td>
 </tr>
 </table>
+
 </div>
 
 <br>
 
+---
+
 ## 🎓 Education & Current Focus
 
 <div align="center">
+
 <table>
 <tr>
-<td align="center" width="33%">
+<td valign="top" align="center" width="33%">
 
 ### 🎓 Education
 **Georgian American University**
@@ -167,7 +198,7 @@ Bachelor of Computer Science
 - Web Development
 
 </td>
-<td align="center" width="33%">
+<td valign="top" align="center" width="33%">
 
 ### 🔭 Currently Working On
 **IntPrep Platform Enhancement**
@@ -183,7 +214,7 @@ Improving user experience
 - System design
 
 </td>
-<td align="center" width="33%">
+<td valign="top" align="center" width="33%">
 
 ### 🌍 Languages
 **Multilingual Communication**
@@ -199,27 +230,28 @@ Perfect for international collaboration
 </td>
 </tr>
 </table>
+
 </div>
 
 <br>
 
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-4A90E2?style=for-the-badge&logoColor=white)](https://lukapartenadze.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-partenadze-394675348/)
-  [![Email](https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukafartenadze2004@gmail.com)
-  [![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi)
 
-  <br><br>
-  
-  **💼 Available for full-time opportunities**
-  <br>
-  **🚀 Ready to contribute to your next project**
-  <br>
-  **✨ Let's build something amazing together**
-  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-4A90E2?style=for-the-badge&logoColor=white)](https://lukapartenadze.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-partenadze-394675348/)
+[![Email](https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukafartenadze2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi)
+
+<br><br>
+
+**💼 Available for full-time opportunities**  
+**🚀 Ready to contribute to your next project**  
+**✨ Let's build something amazing together**
+
 </div>
 
 <br>
