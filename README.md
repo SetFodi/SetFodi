@@ -1,22 +1,34 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Luka%20Partenadze&fontSize=40&fontColor=fff&fontAlignY=35" width="100%"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Luka%20Partenadze&fontSize=50&fontColor=58a6ff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&descAlign=50"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Solutions;Computer+Science+Student" alt="Typing SVG"/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=%3E+Building+Modern+Web+Solutions;%3E+React+%7C+TypeScript+%7C+Node.js" alt="Typing SVG"/>
+  
+  <br/>
+  
+  <a href="https://lukapartenadze.vercel.app/">
+    <img src="https://img.shields.io/badge/📍_Tbilisi,_Georgia-0d1117?style=flat-square&labelColor=0d1117"/>
+  </a>
+  <img src="https://img.shields.io/badge/•-30363d?style=flat-square&labelColor=30363d"/>
+  <a href="https://github.com/SetFodi">
+    <img src="https://img.shields.io/badge/🎓_Georgian_American_University-0d1117?style=flat-square&labelColor=0d1117"/>
+  </a>
+  <img src="https://img.shields.io/badge/•-30363d?style=flat-square&labelColor=30363d"/>
+  <a href="mailto:lukafartenadze2004@gmail.com">
+    <img src="https://img.shields.io/badge/💼_Open_to_Work-238636?style=flat-square&labelColor=0d1117"/>
+  </a>
+
 </div>
 
-<br>
+<br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/📍%20Tbilisi,%20Georgia-4A90E2?style=for-the-badge&labelColor=1F2937" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎓%20Georgian%20American%20University-10B981?style=for-the-badge&labelColor=1F2937" alt="University"/>
-  <img src="https://img.shields.io/badge/💼%20Open%20to%20Work-EF4444?style=for-the-badge&labelColor=1F2937" alt="Status"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br>
+<br/>
 
-## 🎯 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/main/Assets/handshake.gif" width="40"/> &nbsp;About Me
+
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" style="border-radius: 8px;"/>
 
 I'm a passionate **Full Stack Developer** currently pursuing Computer Science at Georgian American University. I specialize in building scalable web applications with modern technologies, focusing on clean code, user experience, and innovative solutions.
 
@@ -39,39 +51,82 @@ languages:
   georgian: Native
 ```
 
-<br>
+<br clear="both"/>
+<br/>
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp;Tech Stack
 
 <div align="center">
 
-**Frontend Development**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,angular,vue,tailwind,html,css&theme=dark" />
+<table>
+<tr>
+<td align="center" width="33%">
 
-**Backend Development**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,cs,mongodb,postgresql,mysql&theme=dark" />
+<img src="https://img.shields.io/badge/Frontend-58a6ff?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=javascript,angular,vue&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=tailwind,html,css&theme=dark" />
 
-**Tools & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,figma,postman&theme=dark" />
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Backend-238636?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cs&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Tools-f78166?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,docker,linux&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br>
+<br/>
 
-## 🚀 Featured Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;Featured Projects
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
 
-### 🎯 IntPrep
-**AI-Powered Interview Platform**
+<a href="https://github.com/SetFodi/intprep">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SetFodi&repo=intprep&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/SetFodi/syncrolly">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SetFodi&repo=syncrolly&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=c9d1d9" />
+</a>
 
+</div>
+
+<br/>
+
+<details>
+<summary><b>🎯 IntPrep — AI-Powered Interview Platform</b></summary>
+<br/>
+<blockquote>
 Advanced interview preparation platform featuring AI mock interviews and real-time coding challenges.
+</blockquote>
 
 **Key Features:**
 - AI feedback using Hugging Face models
@@ -79,17 +134,19 @@ Advanced interview preparation platform featuring AI mock interviews and real-ti
 - Performance analytics dashboard
 - Modern responsive design
 
-**Tech Stack:** React, TypeScript, AI APIs, Monaco Editor
+**Tech Stack:** `React` `TypeScript` `AI APIs` `Monaco Editor`
 
-[![View Project](https://img.shields.io/badge/View%20Code-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi/intprep)
+<a href="https://github.com/SetFodi/intprep">
+<img src="https://img.shields.io/badge/View_Repository-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</details>
 
-</td>
-<td width="50%" align="center">
-
-### 🔄 Syncrolly
-**Real-Time Collaboration Tool**
-
+<details>
+<summary><b>🔄 Syncrolly — Real-Time Collaboration Tool</b></summary>
+<br/>
+<blockquote>
 Collaborative document editing platform with live synchronization and conflict resolution.
+</blockquote>
 
 **Key Features:**
 - WebSocket real-time editing
@@ -97,19 +154,19 @@ Collaborative document editing platform with live synchronization and conflict r
 - Multi-user sessions support
 - Offline recovery mechanisms
 
-**Tech Stack:** Node.js, WebSockets, MongoDB, Yjs
+**Tech Stack:** `Node.js` `WebSockets` `MongoDB` `Yjs`
 
-[![View Project](https://img.shields.io/badge/View%20Code-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi/syncrolly)
+<a href="https://github.com/SetFodi/syncrolly">
+<img src="https://img.shields.io/badge/View_Repository-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</details>
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🎬 AndWatch
-**Media Tracking Platform**
-
+<details>
+<summary><b>🎬 AndWatch — Media Tracking Platform</b></summary>
+<br/>
+<blockquote>
 Comprehensive movie and anime tracking application with personalized recommendations.
+</blockquote>
 
 **Key Features:**
 - Personal watchlists with ratings
@@ -117,17 +174,19 @@ Comprehensive movie and anime tracking application with personalized recommendat
 - Recommendation algorithm
 - Fully responsive design
 
-**Tech Stack:** React, REST APIs, Responsive Design
+**Tech Stack:** `React` `REST APIs` `Responsive Design`
 
-[![View Project](https://img.shields.io/badge/View%20Code-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi/andwatch)
+<a href="https://github.com/SetFodi/andwatch">
+<img src="https://img.shields.io/badge/View_Repository-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</details>
 
-</td>
-<td width="50%" align="center">
-
-### 📂 More Projects
-**Explore My Portfolio**
-
+<details>
+<summary><b>📂 Explore More Projects</b></summary>
+<br/>
+<blockquote>
 Discover additional projects showcasing various technologies and problem-solving approaches.
+</blockquote>
 
 **Includes:**
 - Full-stack web applications
@@ -135,30 +194,37 @@ Discover additional projects showcasing various technologies and problem-solving
 - Backend API services
 - Learning experiments
 
-**Languages:** JavaScript, TypeScript, Python, PHP
+**Languages:** `JavaScript` `TypeScript` `Python` `PHP`
 
-[![View All](https://img.shields.io/badge/View%20All-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi?tab=repositories)
+<a href="https://github.com/SetFodi?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Repositories-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</details>
 
-</td>
-</tr>
-</table>
-</div>
+<br/>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎓 Education & Current Focus
+<br/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> &nbsp;Education & Current Focus
 
 <div align="center">
+
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 🎓 Education
+<img src="https://img.shields.io/badge/🎓_Education-58a6ff?style=for-the-badge"/>
+<br/><br/>
+
 **Georgian American University**
-<br>
+
 Bachelor of Computer Science
-<br>
+
 *2022 - 2026*
+
+<br/>
 
 **Core Coursework:**
 - Algorithms & Data Structures
@@ -169,12 +235,16 @@ Bachelor of Computer Science
 </td>
 <td align="center" width="33%">
 
-### 🔭 Currently Working On
+<img src="https://img.shields.io/badge/🔭_Current_Focus-238636?style=for-the-badge"/>
+<br/><br/>
+
 **IntPrep Platform Enhancement**
-<br>
+
 Adding advanced AI features
-<br>
+
 Improving user experience
+
+<br/>
 
 **Learning Focus:**
 - Advanced React patterns
@@ -185,45 +255,66 @@ Improving user experience
 </td>
 <td align="center" width="33%">
 
-### 🌍 Languages
+<img src="https://img.shields.io/badge/🌍_Languages-f78166?style=for-the-badge"/>
+<br/><br/>
+
 **Multilingual Communication**
 
-🇺🇸 **English** - C1 Fluent
-<br>
-🇷🇺 **Russian** - Fluent
-<br>
-🇬🇪 **Georgian** - Native
+<br/>
 
-Perfect for international collaboration
+🇺🇸 **English** — C1 Fluent
+
+🇷🇺 **Russian** — Fluent
+
+🇬🇪 **Georgian** — Native
+
+<br/>
+
+*Perfect for international collaboration*
 
 </td>
 </tr>
 </table>
+
 </div>
 
-<br>
+<br/>
 
-## 📫 Let's Connect
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> &nbsp;Let's Connect
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-4A90E2?style=for-the-badge&logoColor=white)](https://lukapartenadze.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-partenadze-394675348/)
-  [![Email](https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukafartenadze2004@gmail.com)
-  [![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi)
+<a href="https://lukapartenadze.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/luka-partenadze-394675348/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:lukafartenadze2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/SetFodi">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <br><br>
-  
-  **💼 Available for full-time opportunities**
-  <br>
-  **🚀 Ready to contribute to your next project**
-  <br>
-  **✨ Let's build something amazing together**
-  
+<br/><br/>
+
+```text
+💼 Available for full-time opportunities
+🚀 Ready to contribute to your next project  
+✨ Let's build something amazing together
+```
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" />
+
 </div>
 
-<br>
+<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
