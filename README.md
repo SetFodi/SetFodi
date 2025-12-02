@@ -1,229 +1,171 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Luka%20Partenadze&fontSize=40&fontColor=fff&fontAlignY=35" width="100%"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Solutions;Computer+Science+Student" alt="Typing SVG"/>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Luka+Partenadze+%F0%9F%91%8B;Full+Stack+Developer;Odoo+Specialist" alt="Typing SVG" />
+</h1>
 
-<br>
+<p align="center">
+  <em>Crafting digital experiences with code | Based in Tbilisi 🇬🇪</em>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/📍%20Tbilisi,%20Georgia-4A90E2?style=for-the-badge&labelColor=1F2937" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎓%20Georgian%20American%20University-10B981?style=for-the-badge&labelColor=1F2937" alt="University"/>
-  <img src="https://img.shields.io/badge/💼%20Open%20to%20Work-EF4444?style=for-the-badge&labelColor=1F2937" alt="Status"/>
-</div>
+<p align="center">
+  <a href="https://lukapartenadze.vercel.app/"><img src="https://img.shields.io/badge/🌐_Website-14b8a6?style=flat&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/luka-partenadze-394675348/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:lukafartenadze2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/SetFodi"><img src="https://img.shields.io/github/followers/SetFodi?label=Follow&style=flat&logo=github"/></a>
+</p>
 
-<br>
+---
 
-## 🎯 About Me
+### 🧑💻 Quick Overview
 
-I'm a passionate **Full Stack Developer** currently pursuing Computer Science at Georgian American University. I specialize in building scalable web applications with modern technologies, focusing on clean code, user experience, and innovative solutions.
-
-```yaml
-name: Luka Partenadze
-role: Full Stack Developer
-location: Tbilisi, Georgia
-education: Georgian American University (2022-2026)
-status: Working as a Odoo-Developer at Fostral.
-
-expertise:
-  - Real-time collaboration systems
-  - AI-powered applications
-  - Responsive web design
-  - Modern development practices
-
-languages:
-  english: C1 (Fluent)
-  russian: Fluent
-  georgian: Native
+```typescript
+const luka = {
+  role: "Full Stack Developer",
+  company: "Fostral",
+  education: "Georgian American University (CS '26)",
+  languages: ["Georgian", "English (C1)", "Russian"],
+  
+  tech: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+    backend: ["Node.js", "Python", "PHP/Laravel", "Odoo"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL"],
+    tools: ["Docker", "Git", "VS Code", "Postman"]
+  },
+  
+  currentlyBuilding: "AI-powered interview preparation platform",
+  openToWork: true
+};
 ```
 
-<br>
+---
 
-## 🛠️ Tech Stack
+### 🎯 What I Do
 
-<div align="center">
-
-**Frontend Development**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,angular,vue,tailwind,html,css&theme=dark" />
-
-**Backend Development**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,cs,mongodb,postgresql,mysql&theme=dark" />
-
-**Tools & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,figma,postman&theme=dark" />
-
-</div>
-
-<br>
-
-## 🚀 Featured Projects
-
-<div align="center">
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-### 🎯 IntPrep
-**AI-Powered Interview Platform**
+#### 💻 Development
 
-Advanced interview preparation platform featuring AI mock interviews and real-time coding challenges.
-
-**Key Features:**
-- AI feedback using Hugging Face models
-- Monaco editor integration
-- Performance analytics dashboard
-- Modern responsive design
-
-**Tech Stack:** React, TypeScript, AI APIs, Monaco Editor
-
-[![View Project](https://img.shields.io/badge/View%20Code-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi/intprep)
+* Building scalable full-stack applications
+* Real-time collaboration systems
+* AI-integrated platforms
+* Clean, maintainable code
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-### 🔄 Syncrolly
-**Real-Time Collaboration Tool**
+#### 🎨 Focus Areas
 
-Collaborative document editing platform with live synchronization and conflict resolution.
-
-**Key Features:**
-- WebSocket real-time editing
-- CRDT implementation with Yjs
-- Multi-user sessions support
-- Offline recovery mechanisms
-
-**Tech Stack:** Node.js, WebSockets, MongoDB, Yjs
-
-[![View Project](https://img.shields.io/badge/View%20Code-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi/syncrolly)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🎬 AndWatch
-**Media Tracking Platform**
-
-Comprehensive movie and anime tracking application with personalized recommendations.
-
-**Key Features:**
-- Personal watchlists with ratings
-- TMDB & Jikan API integration
-- Recommendation algorithm
-- Fully responsive design
-
-**Tech Stack:** React, REST APIs, Responsive Design
-
-[![View Project](https://img.shields.io/badge/View%20Code-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi/andwatch)
-
-</td>
-<td width="50%" align="center">
-
-### 📂 More Projects
-**Explore My Portfolio**
-
-Discover additional projects showcasing various technologies and problem-solving approaches.
-
-**Includes:**
-- Full-stack web applications
-- Component libraries
-- Backend API services
-- Learning experiments
-
-**Languages:** JavaScript, TypeScript, Python, PHP
-
-[![View All](https://img.shields.io/badge/View%20All-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi?tab=repositories)
+* Modern web architecture
+* User experience optimization
+* Performance & scalability
+* System design patterns
 
 </td>
 </tr>
 </table>
-</div>
 
+---
+
+### 🛠️ Tech Stack
+
+<details open>
+<summary><b>Click to expand</b></summary>
 <br>
 
-## 🎓 Education & Current Focus
+**Frontend**
 
-<div align="center">
+```
+React  •  Next.js  •  TypeScript  •  JavaScript  •  Tailwind CSS  •  HTML/CSS
+```
+
+**Backend**
+
+```
+Node.js  •  Python  •  PHP  •  Laravel  •  Odoo Framework
+```
+
+**Databases**
+
+```
+PostgreSQL  •  MongoDB  •  MySQL
+```
+
+**DevOps & Tools**
+
+```
+Git  •  Docker  •  Linux  •  VS Code  •  Figma  •  Postman
+```
+
+</details>
+
+---
+
+### 🚀 Featured Work
+
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%">
 
-### 🎓 Education
-**Georgian American University**
-<br>
+**🎯 [IntPrep](https://github.com/SetFodi/intprep)**
+AI-powered interview preparation platform with real-time coding challenges and intelligent feedback.
+`React` `TypeScript` `AI APIs` `Monaco Editor`
+
+</td>
+<td width="50%">
+
+**🔄 [Syncrolly](https://github.com/SetFodi/syncrolly)**
+Real-time collaborative document editor with CRDT implementation and conflict resolution.
+`Node.js` `WebSockets` `MongoDB` `Yjs`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎬 [AndWatch](https://github.com/SetFodi/andwatch)**
+Media tracking platform with personalized recommendations and watchlists.
+`React` `TMDB API` `Jikan API` `Responsive Design`
+
+</td>
+<td width="50%">
+
+**📦 [View More Projects →](https://github.com/SetFodi?tab=repositories)**
+Explore additional projects including component libraries, APIs, and experiments.
+`Various Technologies` `Open Source`
+
+</td>
+</tr>
+</table>
+
+
+
+### 🎓 Education & Experience
+
+**Georgian American University** | *2022 - 2026*
 Bachelor of Computer Science
-<br>
-*2022 - 2026*
 
-**Core Coursework:**
-- Algorithms & Data Structures
-- Software Engineering
-- Database Systems
-- Web Development
+**Fostral** | *Current*
+Odoo Developer
 
-</td>
-<td align="center" width="33%">
+---
 
-### 🔭 Currently Working On
-**IntPrep Platform Enhancement**
-<br>
-Adding advanced AI features
-<br>
-Improving user experience
+### 📬 Get In Touch
 
-**Learning Focus:**
-- Advanced React patterns
-- Cloud architecture
-- Performance optimization
-- System design
+> 💼 **Open to opportunities** — Full-time positions, freelance projects, and collaborations
 
-</td>
-<td align="center" width="33%">
+I'm always interested in new projects, tech innovations, or opportunities to collaborate. Feel free to reach out!
 
-### 🌍 Languages
-**Multilingual Communication**
+* 🌐 Portfolio: [https://lukapartenadze.vercel.app/](https://lukapartenadze.vercel.app/)
+* 💼 LinkedIn: [https://www.linkedin.com/in/luka-partenadze-394675348/](https://www.linkedin.com/in/luka-partenadze-394675348/)
+* 📧 Email: [lukafartenadze2004@gmail.com](mailto:lukafartenadze2004@gmail.com)
 
-🇺🇸 **English** - C1 Fluent
-<br>
-🇷🇺 **Russian** - Fluent
-<br>
-🇬🇪 **Georgian** - Native
+---
 
-Perfect for international collaboration
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/SetFodi">SetFodi</a> | Last Updated: 2025</i>
+</p>
 
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-## 📫 Let's Connect
-
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-4A90E2?style=for-the-badge&logoColor=white)](https://lukapartenadze.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-partenadze-394675348/)
-  [![Email](https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukafartenadze2004@gmail.com)
-  [![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetFodi)
-
-  <br><br>
-  
-  **💼 Available for full-time opportunities**
-  <br>
-  **🚀 Ready to contribute to your next project**
-  <br>
-  **✨ Let's build something amazing together**
-  
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+---
