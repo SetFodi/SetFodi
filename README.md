@@ -90,7 +90,7 @@ Node.js  •  Python  •  PHP  •  Laravel  •  Odoo Framework
 **Databases**
 
 ```
-PostgreSQL  •  MongoDB  •  MySQL
+PostgreSQL  •  MongoDB  •  MySQL • Supabase
 ```
 
 **DevOps & Tools**
