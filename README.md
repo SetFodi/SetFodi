@@ -165,7 +165,7 @@ I'm always interested in new projects, tech innovations, or opportunities to col
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/SetFodi">SetFodi</a> | Last Updated: 2025</i>
+  <i>⭐️ From <a href="https://github.com/SetFodi">SetFodi</a> | Last Updated: 2026</i>
 </p>
 
 ---
